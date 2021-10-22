@@ -1,0 +1,17 @@
+Ejercicio 1 
+
+  1-R=  visual code nos brinda facilidades para generar codigo de algun lenguaje.
+  2-R= Git es  una aplicacion utilizada para el control de versinado de codigo.
+  
+Ejercicio 2
+
+  1-R=procesa una aplicacion del lado del servidor , realizando conexiones bidireccionales  o
+        unidireccionales con el cliente.
+  2-R=son un conjunto de metodos de peticion para realizar una accion que se desea para un recurso determinado         , los mas utilizados son: GET, HEAD, POST, PUT, DELETE, CONNECT, OPTIONS, TRACE, PATCH.
+  
+  3-R= El request te da acceso a toda la informacion que pasa desde el cliente al servidor, mientras que el  response es el mensaje que envia el servidor al cliente tras recibir una peticion. Y los headres son los encabezados, es decir, el tema o logo que se desea presentar.
+  
+  4-R=Los querystring contiene los datos  que deben pasar a aplicaciones web atraves de la URL
+  
+  5-R=
+  
